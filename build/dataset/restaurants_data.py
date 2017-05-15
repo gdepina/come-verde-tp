@@ -42,5 +42,5 @@ with open('restaurants_info.csv', 'rb') as info_file:
 # output file
 print result
 print len(result)
-with open('output_restaurants1.json', 'w') as outfile:
+with open('output_restaurants2.json', 'w') as outfile:
     json.dump(result, outfile)
