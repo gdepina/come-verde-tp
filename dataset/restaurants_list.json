@@ -1,0 +1,235 @@
+[
+  {
+    "objectID": 101422,
+    "name": "Konu Bar",
+    "address": "Tte. Gral. Juan Domingo Perón 131",
+    "area": "Capital Federal",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "image_url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/1932456_1516769861888163_8212610846222058851_n.png?oh=01fd3b15d8a691f60bc40030a222e69e&oe=597DA752",
+    "mobile_reserve_url": "https://www.pedidosya.com.ar/restaurantes/buenos-aires/konu-bar-menu?pycat=googlesearch&cmp=sem_res_AR_Buenos%20Aires_DSA&ag=Buenos%20Aires_DSA&kwd=&mt=b&net=g&dev=c&sitelink=&gclid=Cj0KEQjwgODIBRCEqfv60eq65ogBEiQA0ZC5-dvZujcOrLbfl6gIUFeGlYeKt-kpgnvsvLrH4TIKa84aAjVt8P8HAQ",
+    "payment_options": [
+      "AMEX",
+      "MasterCard",
+      "Visa",
+      "Nativa",
+      "Diners",
+      "Efectivo",
+      "Naranja",
+      "Argencard"
+    ],
+    "phone": "01143734976",
+    "postal_code": "1038",
+    "price": 2,
+    "reserve_url": "https://www.pedidosya.com.ar/restaurantes/buenos-aires/konu-bar-menu?pycat=googlesearch&cmp=sem_res_AR_Buenos%20Aires_DSA&ag=Buenos%20Aires_DSA&kwd=&mt=b&net=g&dev=c&sitelink=&gclid=Cj0KEQjwgODIBRCEqfv60eq65ogBEiQA0ZC5-dvZujcOrLbfl6gIUFeGlYeKt-kpgnvsvLrH4TIKa84aAjVt8P8HAQ",
+    "state": "CO",
+    "_geoloc": {
+      "lat": -34.606338199999996,
+      "lng": -58.38528499999995
+    }
+  },
+  {
+    "objectID": 113494,
+    "name": "Siempre Verde",
+    "address": "Rivadavia 548",
+    "area": "Capital Federal",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "image_url": "https://scontent-eze1-1.xx.fbcdn.net/v/t31.0-8/s960x960/335172_249761355105825_1173578397_o.jpg?oh=120c9976c78a9ae9a2ec600a9566bab0&oe=597B32A7",
+    "mobile_reserve_url": "https://www.facebook.com/Siempre-Verde-Restorant-Vegetariano--249759478439346/",
+    "payment_options": [
+      "Efectivo"
+    ],
+    "phone": "01143424630",
+    "postal_code": "1002",
+    "price": 2,
+    "reserve_url": "https://www.facebook.com/Siempre-Verde-Restorant-Vegetariano--249759478439346/",
+    "state": "NC",
+    "_geoloc": {
+      "lat": -34.60687686614309,
+      "lng": -58.37223337093354
+    }
+  },
+  {
+    "objectID": 152470,
+    "name": "Picnic",
+    "address": "Florida 102",
+    "area": "Capital Federal",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "image_url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/560375_351584971592206_1444443775_n.jpg?oh=0bf91919f008f9303b5d5db52a229893&oe=59758A7A",
+    "mobile_reserve_url": "https://www.facebook.com/picnicbuenosaires/",
+    "payment_options": [
+      "AMEX",
+      "MasterCard",
+      "Visa"
+    ],
+    "phone": "",
+    "postal_code": "1005",
+    "price": 2,
+    "reserve_url": "https://www.facebook.com/picnicbuenosaires/",
+    "state": "Buenos Aires",
+    "_geoloc": {
+      "lat": -34.607521494803066,
+      "lng": -58.373917798194896
+    }
+  },
+  {
+    "objectID": 145693,
+    "name": "Vita",
+    "address": "Av. Hipólito Yrigoyen 583",
+    "area": "Capital Federal",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "image_url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/14854_899238363426870_2900074146296349540_n.png?oh=cf7859cac99cb9a8e38a8ae12512d1b4&oe=59A7C2CF",
+    "mobile_reserve_url": "http://www.guiaoleo.com.ar/restaurantes/Picnic-10834",
+    "payment_options": [
+      "Efectivo"
+    ],
+    "phone": "",
+    "postal_code": "1086",
+    "price": 2,
+    "reserve_url": "http://www.guiaoleo.com.ar/restaurantes/Picnic-10834",
+    "state": "Buenos Aires",
+    "_geoloc": {
+      "lat": -34.6103030542326,
+      "lng": -58.376460532341014
+    }
+  },
+  {
+    "objectID": 22588,
+    "name": "Green Eat",
+    "address": "Uruguay 703",
+    "area": "Capital Federal",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "image_url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/11218990_1053796521319544_3454166543970391948_n.png?oh=0e733444cfd435beb719c8aa79ad2090&oe=597B54C9",
+    "mobile_reserve_url": "http://www.greeneat.com.ar/",
+    "payment_options": [
+      "AMEX",
+      "Visa Electron",
+      "MasterCard",
+      "Visa",
+      "Maestro"
+    ],
+    "phone": "",
+    "postal_code": "1026",
+    "price": 2,
+    "reserve_url": "http://www.greeneat.com.ar/",
+    "state": "Buenos Aires",
+    "_geoloc": {
+      "lat": -34.60419233133299,
+      "lng": -58.38285491863252
+    }
+  },
+  {
+    "objectID": 76285,
+    "name": "Y La Vaca Chocha",
+    "address": "Av. San Juan 409",
+    "area": "Capital Federal",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "image_url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/16711776_1229958317059885_8176895760647502685_n.jpg?oh=3d3c06214073748f04015f648b62002d&oe=597BEEF7",
+    "mobile_reserve_url": "https://www.facebook.com/ylavacachocha/",
+    "payment_options": [
+      "Efectivo"
+    ],
+    "phone": "20475827",
+    "postal_code": "1147",
+    "price": 2,
+    "reserve_url": "https://www.facebook.com/ylavacachocha/",
+    "state": "TX",
+    "_geoloc": {
+      "lat": -34.61530079670012,
+      "lng": -58.38256524005891
+    }
+  },
+  {
+    "objectID": 68347,
+    "name": "Sattva",
+    "address": "Montevideo 446",
+    "area": "Capital Federal",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "image_url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/16105942_1285526078191180_6307866544371271930_n.jpg?oh=fc72652ee87efc4ede9b4d89b3f4cedc&oe=59743565",
+    "mobile_reserve_url": "http://www.guiaoleo.com.ar/restaurantes/Sattva-3243",
+    "payment_options": [
+      "Efectivo"
+    ],
+    "phone": "43745125",
+    "postal_code": "10019",
+    "price": 2,
+    "reserve_url": "http://www.guiaoleo.com.ar/restaurantes/Sattva-3243",
+    "state": "Buenos Aires",
+    "_geoloc": {
+      "lat": -34.60592315976826,
+      "lng": -58.37988303104402
+    }
+  },
+  {
+    "objectID": 145747,
+    "name": "Mono Verde Vegano",
+    "address": "Av Rivadavia 3300",
+    "area": "Capital Federal",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "image_url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/11403201_877378802322381_5696888558743371024_n.jpg?oh=3d5363307733d83cf136416aade83c6a&oe=597720E8",
+    "mobile_reserve_url": "https://www.facebook.com/Mono-Verde-Vegano-492476604145938/",
+    "payment_options": [
+      "Efectivo"
+    ],
+    "phone": "01150578038",
+    "postal_code": "1203",
+    "price": 3,
+    "reserve_url": "https://www.facebook.com/Mono-Verde-Vegano-492476604145938/",
+    "state": "Buenos Aires",
+    "_geoloc": {
+      "lat": -34.609985166442485,
+      "lng": -58.40897963443757
+    }
+  },
+  {
+    "objectID": 49399,
+    "name": "Pizzeria Flipper",
+    "address": "Lavalle 3762",
+    "area": "Capital Federal",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "image_url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/302914_312078525487692_1655612312_n.jpg?oh=873ce429daacdf13b24e344a7558775a&oe=59BEF65E",
+    "mobile_reserve_url": "https://www.facebook.com/pizzaflipper/",
+    "payment_options": [
+      "Efectivo"
+    ],
+    "phone": "4865-8045",
+    "postal_code": "1190",
+    "price": 2,
+    "reserve_url": "https://www.pedidosya.com.ar/restaurantes/buenos-aires/pizzeria-flipper-menu",
+    "state": "Buenos Aires",
+    "_geoloc": {
+      "lat": -34.60330924170176,
+      "lng": -58.41258452335359
+    }
+  },
+  {
+    "objectID": 37393,
+    "name": "Hamburguesas Veganas Pumpkin",
+    "address": "José Antonio Cabrera 3517",
+    "area": "Capital Federal",
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "image_url": "https://scontent-eze1-1.xx.fbcdn.net/v/t1.0-9/18342439_645418332324719_411580881719611324_n.jpg?oh=ba98aacc05966c04105dfba0409cca4d&oe=597F0972",
+    "mobile_reserve_url": "http://www.pumpkin.com.ar/",
+    "payment_options": [
+      "Efectivo"
+    ],
+    "phone": "49612239",
+    "postal_code": "1186",
+    "price": 3,
+    "reserve_url": "http://www.pumpkin.com.ar/",
+    "state": "Buenos Aires",
+    "_geoloc": {
+      "lat": -34.60088952799668,
+      "lng": -58.42171476284028
+    }
+  }
+]
