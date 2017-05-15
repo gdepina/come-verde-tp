@@ -1,8 +1,8 @@
 {
-  "name": "opentable-search",
+  "name": "come-verde-tp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://eunice.github.io/opentable-search",
+  "homepage": "https://gdepina.github.io/come-verde-tp",
   "dependencies": {
     "algoliasearch": "^3.21.1",
     "algoliasearch-helper": "^2.18.1",
